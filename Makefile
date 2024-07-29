@@ -55,3 +55,22 @@ build-0.6:
 	./build.sh 0.6.10 ${SOLC_PLATFORM}
 	./build.sh 0.6.11 ${SOLC_PLATFORM}
 	./build.sh 0.6.12 ${SOLC_PLATFORM}
+
+build-0.5:
+	./build.sh 0.5.0 ${SOLC_PLATFORM}
+	./build.sh 0.5.1 ${SOLC_PLATFORM}
+	./build.sh 0.5.2 ${SOLC_PLATFORM}
+	./build.sh 0.5.3 ${SOLC_PLATFORM}
+	./build.sh 0.5.4 ${SOLC_PLATFORM}
+	./build.sh 0.5.5 ${SOLC_PLATFORM}
+	./build.sh 0.5.6 ${SOLC_PLATFORM}
+	./build.sh 0.5.7 ${SOLC_PLATFORM}
+	./build.sh 0.5.8 ${SOLC_PLATFORM}
+	./build.sh 0.5.9 ${SOLC_PLATFORM}
+	./build.sh 0.5.10 ${SOLC_PLATFORM}
+	./build.sh 0.5.11 ${SOLC_PLATFORM}
+	./build.sh 0.5.12 ${SOLC_PLATFORM}
+	./build.sh 0.5.13 ${SOLC_PLATFORM}
+	./build.sh 0.5.14 ${SOLC_PLATFORM}
+	./build.sh 0.5.15 ${SOLC_PLATFORM}
+	./build.sh 0.5.16 ${SOLC_PLATFORM}

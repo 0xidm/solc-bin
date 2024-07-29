@@ -1,8 +1,16 @@
 # solc-bin arm64 (unofficial)
 
-This repository contains builds of the [Solidity Compiler](https://github.com/ethereum/solidity/) for arm64 linux system, including RPi4 and RPi5.
+This repository contains builds of the [Solidity Compiler](https://github.com/ethereum/solidity/) for arm64 Linux systems, including rpi4 and rpi5.
 
-These are not official builds and this is not an official project.
+I need to run `solc` on rpi - but there's no official arm64 release of `solc-bin`.
+As a weekend project, I undertook building arm64 `solc`.
+I ended up building every version of `solc` from `v0.5.0` through `v0.8.26` and I'm releasing the statically-linked binaries here.
+
+## Notes
+
+- These are not official builds and this is not an official project.
+- Z3 is not compiled in these builds. If you require SMT, please use the official `solc-bin` with emulation.
+- v0.5.12 is not building for some reason
 
 ## Downloads
 
@@ -76,7 +84,7 @@ These are not official builds and this is not an official project.
 - [v0.5.9](https://0xidm.github.io/solc-bin/linux-arm64/solc-v0.5.9)
 - [v0.5.10](https://0xidm.github.io/solc-bin/linux-arm64/solc-v0.5.10)
 - [v0.5.11](https://0xidm.github.io/solc-bin/linux-arm64/solc-v0.5.11)
-- [v0.5.12](https://0xidm.github.io/solc-bin/linux-arm64/solc-v0.5.12)
+<!-- - [v0.5.12](https://0xidm.github.io/solc-bin/linux-arm64/solc-v0.5.12) -->
 - [v0.5.13](https://0xidm.github.io/solc-bin/linux-arm64/solc-v0.5.13)
 - [v0.5.14](https://0xidm.github.io/solc-bin/linux-arm64/solc-v0.5.14)
 - [v0.5.15](https://0xidm.github.io/solc-bin/linux-arm64/solc-v0.5.15)

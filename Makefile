@@ -69,8 +69,9 @@ build-0.5:
 	./build.sh 0.5.9 ${SOLC_PLATFORM}
 	./build.sh 0.5.10 ${SOLC_PLATFORM}
 	./build.sh 0.5.11 ${SOLC_PLATFORM}
-	./build.sh 0.5.12 ${SOLC_PLATFORM}
 	./build.sh 0.5.13 ${SOLC_PLATFORM}
 	./build.sh 0.5.14 ${SOLC_PLATFORM}
 	./build.sh 0.5.15 ${SOLC_PLATFORM}
 	./build.sh 0.5.16 ${SOLC_PLATFORM}
+
+# ./build.sh 0.5.12 ${SOLC_PLATFORM}

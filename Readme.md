@@ -46,6 +46,24 @@ These are not official builds and this is not an official project.
 - [v0.7.5](https://0xidm.github.io/solc-bin/linux-arm64/solc-v0.7.5)
 - [v0.7.6](https://0xidm.github.io/solc-bin/linux-arm64/solc-v0.7.6)
 
+### v0.6
+
+- [v0.6.0](https://0xidm.github.io/solc-bin/linux-arm64/solc-v0.6.0)
+- [v0.6.1](https://0xidm.github.io/solc-bin/linux-arm64/solc-v0.6.1)
+- [v0.6.2](https://0xidm.github.io/solc-bin/linux-arm64/solc-v0.6.2)
+- [v0.6.3](https://0xidm.github.io/solc-bin/linux-arm64/solc-v0.6.3)
+- [v0.6.4](https://0xidm.github.io/solc-bin/linux-arm64/solc-v0.6.4)
+- [v0.6.5](https://0xidm.github.io/solc-bin/linux-arm64/solc-v0.6.5)
+- [v0.6.6](https://0xidm.github.io/solc-bin/linux-arm64/solc-v0.6.6)
+- [v0.6.7](https://0xidm.github.io/solc-bin/linux-arm64/solc-v0.6.7)
+- [v0.6.8](https://0xidm.github.io/solc-bin/linux-arm64/solc-v0.6.8)
+- [v0.6.9](https://0xidm.github.io/solc-bin/linux-arm64/solc-v0.6.9)
+- [v0.6.10](https://0xidm.github.io/solc-bin/linux-arm64/solc-v0.6.10)
+- [v0.6.11](https://0xidm.github.io/solc-bin/linux-arm64/solc-v0.6.11)
+- [v0.6.12](https://0xidm.github.io/solc-bin/linux-arm64/solc-v0.6.12)
+
 ## Maintenance
 
-Given my current workload, I'm not committing to maintaining this project. I did this over the weekend because I needed something specific. Please reach out if you'd like to help make this resource sustainable.
+Given my current workload, I'm cannot commit to maintaining this project.
+I did this over the weekend because I needed something specific.
+Please reach out if you can help make this resource sustainable.

@@ -1,8 +1,8 @@
 # solc-bin arm64 (unofficial)
 
-I hope it can be useful for anyone who needs to run `solc` on their arm64 linux system, including RPi4 and RPi5 systems.
+This repository contains builds of the [Solidity Compiler](https://github.com/ethereum/solidity/) for arm64 linux system, including RPi4 and RPi5.
 
-This was a weekend project. I'm not committing to maintaining this project. Please reach out if you'd like to help make this possible.
+These are not official builds and this is not an official project.
 
 ## Downloads
 
@@ -23,6 +23,11 @@ This was a weekend project. I'm not committing to maintaining this project. Plea
 - [v0.8.14](https://0xidm.github.io/linux-arm64/solc-v0.8.14)
 - [v0.8.15](https://0xidm.github.io/linux-arm64/solc-v0.8.15)
 - [v0.8.16](https://0xidm.github.io/linux-arm64/solc-v0.8.16)
+- [v0.8.17](https://0xidm.github.io/linux-arm64/solc-v0.8.17)
 - [v0.8.24](https://0xidm.github.io/linux-arm64/solc-v0.8.24)
 - [v0.8.25](https://0xidm.github.io/linux-arm64/solc-v0.8.25)
 - [v0.8.26](https://0xidm.github.io/linux-arm64/solc-v0.8.26)
+
+## Maintenance
+
+Given my current workload, I'm not committing to maintaining this project. I did this over the weekend because I needed something specific. Please reach out if you'd like to help make this resource sustainable.

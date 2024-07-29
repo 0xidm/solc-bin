@@ -1,6 +1,9 @@
 SOLC_PLATFORM=linux/arm64/v8
 
-build:
+build: build-0.8 build-0.7
+	@echo OK
+
+build-0.8:
 	./build.sh 0.8.0 ${SOLC_PLATFORM}
 	./build.sh 0.8.1 ${SOLC_PLATFORM}
 	./build.sh 0.8.2 ${SOLC_PLATFORM}
@@ -28,3 +31,12 @@ build:
 	./build.sh 0.8.24 ${SOLC_PLATFORM}
 	./build.sh 0.8.25 ${SOLC_PLATFORM}
 	./build.sh 0.8.26 ${SOLC_PLATFORM}
+
+build-0.7:
+	./build.sh 0.7.0 ${SOLC_PLATFORM}
+	./build.sh 0.7.1 ${SOLC_PLATFORM}
+	./build.sh 0.7.2 ${SOLC_PLATFORM}
+	./build.sh 0.7.3 ${SOLC_PLATFORM}
+	./build.sh 0.7.4 ${SOLC_PLATFORM}
+	./build.sh 0.7.5 ${SOLC_PLATFORM}
+	./build.sh 0.7.6 ${SOLC_PLATFORM}

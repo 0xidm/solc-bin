@@ -92,6 +92,5 @@ I ended up building every version of `solc` from `v0.5.0` through `v0.8.26` and 
 
 ## Maintenance
 
-Given my current workload, I'm cannot commit to maintaining this project.
-I did this over the weekend because I needed something specific.
+Given my current workload, I cannot commit to maintaining this project.
 Please reach out if you can help make this resource sustainable.
